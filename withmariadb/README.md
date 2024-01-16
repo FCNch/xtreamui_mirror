@@ -53,5 +53,5 @@ note: newstuff.zip has same files from my xtreamui_things repo, i won't update t
 note2: also i still use same release_22f.zip file. if you want to use old install.py, go to bitbucket mirror page.
 
 ### note,
-i forked this install.py is from https://xtream-ui.com/install/install.py  
+i forked this install.py is from[https://xtream-ui.org ](https://xtream-ui.org/install/install.py)
 you can compare my install.py with original one.
